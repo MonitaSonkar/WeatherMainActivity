@@ -1,0 +1,12 @@
+
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ8å†ÉŒõ0
+]
+java:S1128";Remove this unused import 'kotlin.jvm.internal.Intrinsics'.(µÅÚîúÿÿÿÿ8å†ÉŒõ0
+[
+java:S1128
+"9Remove this unused import 'androidx.lifecycle.ViewModel'.(ÛÒÚ“úÿÿÿÿ8Ò„„õ0
+\
+java:S1128"@Remove this unused import 'com.monita.weatherapp.model.Weather'.(ëİ•d8å†ÉŒõ0
+a
+java:S1128"?Remove this unused import 'com.monita.weatherapp.MainActivity'.(èáèÿúÿÿÿÿ8¶ıÎõ0

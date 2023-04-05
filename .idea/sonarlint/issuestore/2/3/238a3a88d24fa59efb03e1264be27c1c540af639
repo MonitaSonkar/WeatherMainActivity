@@ -1,0 +1,80 @@
+
+H
+java:S1128<"+Remove this unused import 'retrofit2.Call'.(Çö÷›8«œÀõ0
+w
+java:S1450F"URemove the "backIV" field and declare it as a local variable in the relevant methods.(ìÑ¡£şÿÿÿÿ8İı’Œõ0
+i
+java:S1301ş"KReplace this "switch" statement by "if" statements to increase readability.(Ñ¢³Ö8œöİõ0
+M
+java:S1066½"/Merge this if statement with the enclosing one.(¾Çß8œöİõ0
+\
+java:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(ß »§8ÕÂõ0
+{
+java:S1450B"^Remove the "locationManager" field and declare it as a local variable in the relevant methods.(ô­âº8İı’Œõ0
+L
+java:S1128>"/Remove this unused import 'retrofit2.Response'.(¾éçï8«œÀõ0
+H
+java:S1659F"&Declare "searchIV" on a separate line.(ìÑ¡£şÿÿÿÿ8İı’Œõ0
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(á¥¥Ä8ŞÎæõ0
+g
+java:S1874¹"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ÕÂõ0
+U
+java:S2589Ô"7Remove this expression which always evaluates to "true"(ß »§8ÕÂõ0
+I
+java:S1659D"'Declare "condition" on a separate line.(ß’œşÿÿÿÿ8İı’Œõ0
+X
+java:S1874H"6Remove this use of "ProgressDialog"; it is deprecated.(ÿ¢ÿÿÿÿÿ8İı’Œõ0
+X
+java:S1874Y"6Remove this use of "ProgressDialog"; it is deprecated.(é™æíúÿÿÿÿ8İı’Œõ0
+Z
+java:S1854ù"<Remove this useless assignment to local variable "response".(­¯İØ8œöİõ0
+Š
+java:S3252ÿ"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ8ÕÂõ0
+K
+java:S1659D")Declare "temperature" on a separate line.(ß’œşÿÿÿÿ8İı’Œõ0
+K
+java:S1128="/Remove this unused import 'retrofit2.Callback'.(›¨,8«œÀõ0
+P
+java:S1068B"3Remove this unused "locationManager" private field.(ô­âº8İı’Œõ0
+F
+java:S1604Š"(Make this anonymous inner class a lambda(«Ø‹ú8ÕÂõ0
+X	java:S110@"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ÕÂõ0
+{	java:S116G"ZRename this field "PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ú–›ûÿÿÿÿ8İı’Œõ0
+y
+java:S3252h"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(»¤è«ıÿÿÿÿ8ÕÂõ0
+U
+java:S2589•"7Remove this expression which always evaluates to "true"(ñö§¿8œöİõ0
+y
+java:S1450F"WRemove the "searchIV" field and declare it as a local variable in the relevant methods.(ìÑ¡£şÿÿÿÿ8İı’Œõ0
+z
+java:S3252Ç"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Ç·ÅÂıÿÿÿÿ8ÕÂõ0
+a
+java:S1117’"CRename "locationManager" which hides the field declared at line 66.(á¶¶ı8œöİõ0
+Z
+java:S1128">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8‰‘Éõ0
+U
+java:S1144"7Remove this unused private "getCityfromLatLong" method.(ù˜¼»8˜•Ãõ0
+K
+java:S1481ù"-Remove this unused "response" local variable.(­¯İØ8œöİõ0
+F
+java:S1604ô"(Make this anonymous inner class a lambda(’åš‰8ÕÂõ0
+‡
+java:S1450C"jRemove the "fusedLocationProviderClient" field and declare it as a local variable in the relevant methods.(«¾Ææ8ÛŸ›ÿô0
+L
+java:S1068F"*Remove this unused "backIV" private field.(ìÑ¡£şÿÿÿÿ8İı’Œõ0
+E
+java:S1604u"(Make this anonymous inner class a lambda(÷«Öõ8ÕÂõ0
+?	java:S131ş""Add a default case to this switch.(Ñ¢³Ö8œöİõ0
+w
+java:S1450H"URemove the "dialog" field and declare it as a local variable in the relevant methods.(ÿ¢ÿÿÿÿÿ8Üÿ°õ0
+t
+java:S3252i"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ŸºÃ‚8ÕÂõ0
+L
+java:S1068H"*Remove this unused "dialog" private field.(ÿ¢ÿÿÿÿÿ8Üÿ°õ0
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù˜¼»8üà®õ0
+K
+java:S1604“"(Make this anonymous inner class a lambda(¾„š¤ùÿÿÿÿ8İı’Œõ0
+n
+java:S11282"LRemove this unused import 'com.monita.weatherapp.api.WeatherRetrofitClient'.(Ò©ªšùÿÿÿÿ8«œÀõ0
+F
+java:S1659F"$Declare "iconTV" on a separate line.(ìÑ¡£şÿÿÿÿ8İı’Œõ0
